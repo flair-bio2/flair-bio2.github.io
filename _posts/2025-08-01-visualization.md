@@ -17,7 +17,7 @@ This guide provides simple, aesthetic examples of common plot types using Matplo
 > Ultimately, it is content that makes graphics interesting. When a chart is presented properly, information just flows to the viewer in the clearest and most efficient way.
 > -- Dona M. Wong
 
-Let's dive into some practical examples to elevate your data storytelling.
+Let's dive into some practical examples with dummy data.
 
 **Author**: [Quentin Fournier](https://scholar.google.com/citations?user=I0M6-KsAAAAJ) (edited with LLMs)
 
@@ -34,8 +34,6 @@ From [The misuse of colour in science communication](https://www.nature.com/arti
 ## The Classic Bar Plot
 
 Bar plots are perfect for comparing discrete categories. A golden rule is that bar plots **must start at 0** on their value axis to provide an accurate, non-misleading comparison of values. Here, we'll create a grouped bar plot to compare model scores across different benchmarks.
-
-Now, we can use the `df_results` DataFrame to create our bar plot.
 
 ```python
 import numpy as np
