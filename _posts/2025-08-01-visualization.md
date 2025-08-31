@@ -127,8 +127,6 @@ plt.show()
 
 This plot takes our comparison a step further by showing model performance with 95% confidence intervals (CIs). We calculate these CIs using **bootstrapping**, a powerful resampling technique that estimates the uncertainty of a statistic (like the mean) without making strong assumptions about the data's distribution.
 
-Now we can bootstrap the confidence intervals and plot the results.
-
 ```python
 import numpy as np
 import pandas as pd
@@ -230,8 +228,6 @@ plt.show()
 
 Histograms are excellent for visualizing the distribution of continuous data. They show the frequency of data points within specific intervals (or "bins"). In this example, we'll overlay two distributions to compare them directly.
 
-Now we create the histogram plot from the `df_results` DataFrame.
-
 ```python
 import numpy as np
 import pandas as pd
@@ -323,8 +319,6 @@ plt.show()
 
 Line plots are the go-to for showing trends over a continuous variable, such as time or, in our case, training steps. This example visualizes the training loss curves for different models. A pro-tip for cleaner line plots is to **directly label the lines** at the end rather than using a separate legend.
 
-Now we can plot the loss curves.
-
 ```python
 import numpy as np
 import pandas as pd
@@ -400,8 +394,6 @@ plt.show()
 ## Stacked Bar Plots for Part-to-Whole Comparisons
 
 Stacked bar plots are used to show part-to-whole relationships. Each bar represents a total, while the segments within it show the proportion of each sub-category. To make the plot easier to interpret, it's a good idea to **sort the bars** by one of the categories (e.g., "Win" percentage).
-
-And now, we'll create the plot.
 
 ```python
 import numpy as np
@@ -488,8 +480,6 @@ plt.show()
 ## Pairwise Comparison Scatter Plot
 
 This plot offers a direct, point-by-point comparison of two models' performance. Each point represents a single data instance, and its position shows the score from each model. A diagonal line (y=x) acts as a reference: points below the line are "wins" for the model on the x-axis, and points above are "wins" for the model on the y-axis.
-
-Now we can create our pairwise comparison plot.
 
 ```python
 import numpy as np
