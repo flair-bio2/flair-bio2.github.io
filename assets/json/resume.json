@@ -1,200 +1,271 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Quentin Fournier",
+    "image": "assets/img/profile.jpg",
+    "email": "quentin.fournier@mila.quebec",
+    "phone": "+1(438) 722-3154",
+    "summary": "I’m a Research Fellow at Mila, where I’m leading a thematic lab on language models for drug discovery. I'm currently focusing on understanding how to adapt all aspects of the LLM pipeline, from data processing and pre-training to alignment and evaluation, to the unique characteristics of biological data such as genomes, proteins, and small molecules.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Montréal",
+      "countryCode": "CA",
+      "region": "Quebec"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "Quentin Fournier",
+        "url": "https://scholar.google.com/citations?user=I0M6-KsAAAAJ"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Quentin Fournier",
+        "url": "https://www.linkedin.com/in/qfournier"
+      },
+      {
+        "network": "GitHub",
+        "username": "qfournier",
+        "url": "https://github.com/qfournier"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Mila",
+      "location": "Montréal, CA",
+      "position": "Research Fellow",
+      "url": "https://mila.quebec/fr/annuaire/quentin-fournier",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Leading a thematic research lab focused on advancing machine learning for drug discovery."
+    },
+    {
+      "name": "Amgen",
+      "location": "Montréal, CA",
+      "position": "Consultant as Senior Machine Learning Scientist",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Designing novel machine learning solutions for the drug discovery pipeline."
+    },
+    {
+      "name": "Polytechnique Montréal",
+      "location": "Montréal, CA",
+      "position": "Lecturer",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "2022",
+      "highlights": [
+        "Taught INF8111-Data Mining (Graduate-level) for Fall 2019, Summer 2020, Fall 2020, and Fall 2022 semesters."
+      ]
+    },
+    {
+      "name": "Polytechnique Montréal",
+      "position": "Teacher Assistant",
+      "location": "Montréal, CA",
+      "url": "",
+      "startDate": "2018",
+      "endDate": "2021",
+      "highlights": [
+        "INF8111 - Data Mining (Summer 2021, Fall 2021) (graduate-level)",
+        "INF8215 - Artificial Intelligence: Methods and Algorithms (Fall 2018) (graduate-level)"
+      ]
+    },
+    {
+      "name": "IT Link",
+      "location": "Rennes, FR",
+      "position": "Research and Development Internship",
+      "url": "",
+      "startDate": "2018",
+      "endDate": "2018",
+      "highlights": [
+        "Supervised by Nicolas Ménard and Christian Raymond."
+      ]
+    },
+    {
+      "name": "Institut de Recherche en Informatique et Système Aléatoire (IRISA)",
+      "location": "Rennes, FR",
+      "position": "Research Internship",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "2017",
+      "highlights": [
+        "Supervised by Christian Raymond."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Rock'n Solex",
+      "position": "Webmaster",
+      "location": "Rennes, FR",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Developed the website for a student festival combining Solex racing and music since 1967."
+    },
+    {
+      "organization": "Club'Dev",
+      "position": "Lead Developer",
+      "location": "Rennes, FR",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Developed the student association website and tutored computer science students."
+    },
+    {
+      "organization": "INSALAN",
+      "position": "Member of the Network Team",
+      "location": "Rennes, FR",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "Contributed to the deployment of hardware and software for a LAN tournament with over 100 players."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Mila, University of Montréal",
+      "location": "Montréal, CA",
+      "url": "",
+      "area": "Computer Science and Operations Research",
+      "studyType": "Postdoctoral Fellow",
+      "startDate": "2023",
+      "endDate": "2024",
+      "score": ""
+    },
+    {
+      "institution": "Polytechnique Montréal",
+      "location": "Montréal, CA",
+      "url": "",
+      "area": "Computer and Software Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2018",
+      "endDate": "2022",
+      "score": "",
+      "courses": [
+        "Supervisors: Daniel Aloise and Michel R. Dagenais",
+        "Award: Nominated for Best Thesis Award"
+      ]
+    },
+    {
+      "institution": "Institut National des Sciences Appliquées Rennes",
+      "location": "Rennes, FR",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Master of Engineering",
+      "startDate": "2013",
+      "endDate": "2018",
+      "score": ""
+    },
+    {
+      "institution": "Lycée Jean Guéhenno",
+      "location": "Fougères, FR",
+      "url": "",
+      "area": "Mathematics Specialty",
+      "studyType": "Scientific Baccalauréat",
+      "startDate": "2008",
+      "endDate": "2013",
+      "score": "First-Class Honors"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Nominated for Best Thesis Award",
+      "date": "2022",
+      "awarder": "Polytechnique Montréal",
+      "summary": "Nominated for outstanding doctoral research and thesis in the Computer and Software Engineering department."
     }
   ],
-  "certificates": [
+  "activities": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Conference Chairs",
+      "highlights": [
+        "Sponsor Chair - Fourth Conference on Lifelong Learning Agents (CoLLAS), 2025",
+        "Virtual Chair - Third Conference on Lifelong Learning Agents (CoLLAS), 2024",
+        "Virtual Chair - Second Conference on Lifelong Learning Agents (CoLLAS), 2023"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Reviewer",
+      "highlights": [
+        "Reviewer for ICML (2025), ICLR (2025), NeurIPS (2025, 2024), AISTATS (2025), etc."
+      ]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Invited Talks and Workshops",
+      "highlights": [
+        "Protein Language Model - RiboClub Social Day, 2025",
+        "AMPLIFY: Is Scaling Protein Language Model Necessary? - Zoetis, 2025",
+        "Lessons on Efficient Language Models and Future Applications - Queen's University, 2024",
+        "ML-driven Small Molecule and Protein Design - Mila-SickKids Workshop, 2024",
+        "How to Fine-tune LLMs on DGX - Royal Military College, 2024"
+      ]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Data Mining & Machine Learning",
+      "level": "Expert",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Deep Learning: Transformers, Low-Complexity Transformers, Deep and Variational Autoencoders",
+        "Machine Learning: SVM, LDA, QDA, KNN, Naive Bayes, Decision Trees, KMeans, DBSCAN, OPTICS, Gaussian Mixture Models",
+        "Data Mining: Logging and tracing, data munging, statistical analysis, data visualization"
+      ]
+    },
+    {
+      "name": "Programming, Libraries & Tools",
+      "level": "Expert",
+      "keywords": [
+        "Languages: Python, LaTeX, Bash",
+        "Libraries: PyTorch, WandB, Hydra, Scikit-learn, Scipy, Matplotlib, Seaborn",
+        "Tools: Git, Slurm, VS Code"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "French",
+      "fluency": "Native Speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Proficient"
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Available upon request"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Supervision of Ph.D. Students",
+      "highlights": [
+        "Gabriele Prato (Mila, UdeM, 2025-Present): LLMs Groundness - with Sarath Chandar",
+        "Davide Baldelli (Mila, PolyMTL, 2025-Present): Computer-Aided Design (CAD) with LLMs - with Sarath Chandar",
+        "Léa Kaufman (Mila, UdeM, 2025-Present): Gene Expression Across Cell Lines - with Sébastien Lemieux",
+        "Darshan Patil (Mila, PolyMTL, 2024-Present): Lifelong Pre-trained Language Models - with Sarath Chandar",
+        "Prashant Govindarajan (Mila, PolyMTL, 2024-Present): Computer Aided Design (CAD) with LLMs - with Sarath Chandar",
+        "Lola Le Breton (Mila, PolyMTL, 2023-Present): Protein Language Models - with Sarath Chandar",
+        "David Heurtel-Depeiges (Mila, PolyMTL, 2023-Present): Diffusion Protein Language Models - with Sarath Chandar",
+        "Pranshu Malviya (Mila, PolyMTL, 2023-Present): Neural Network Expansion & Lifelong PLMs - with Sarath Chandar",
+        "Jerry Huang (Mila, UdeM, 2023-Present): Role of Memory & Protein State-Space Models - with Sarath Chandar"
+      ],
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+      "name": "Supervision of Master's, Researchers & Interns",
+      "highlights": [
+        "Istabrak Abbes (Mila, UdeM, Master, 2024-Present): LLMs Groundness - with Sarath Chandar",
+        "Megh Thakkar (Mila, UdeM, Master, 2023-2025): Safety Alignment & Model Merging - with Sarath Chandar and Amal Zouaq",
+        "Maziar Sargordi (Mila, PolyMTL, Master, 2023-2024): NN with Constraint Programming - with Sarath Chandar and Amal Zouaq",
+        "Behnoush Khavari (Mila, Researcher, 2023-Present): Role of Memory; Protein State-Space Model - with Sarath Chandar",
+        "Kamran Chitsaz (Mila, Researcher, 2023-Present): Transformer Quantization; Molecule Language Models - with Sarath Chandar",
+        "Alex Aselstyne (PolyMTL, Intern, 2025-Present): Antimicrobial Resistance Prediction - with Sarath Chandar",
+        "Can (Sam) Chen (Mila, UdeM, Intern, 2025): Structure Alignment for Protein Language - with Yoshua Bengio",
+        "Annabel Adeyeri (Mila, MIT, Intern, 2023): Fairness in Pre-Trained Language Models - with Sarath Chandar",
+        "Julia Rolland (UTBM, PolyMTL, Intern, 2021): ML to Detect Anomalies in Traces - with Daniel Aloise"
+      ],
+      "startDate": "2021",
+      "endDate": "Present"
     }
   ]
 }
