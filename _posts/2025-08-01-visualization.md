@@ -5,7 +5,10 @@ description: At their best, graphics are instruments for reasoning about quantit
 tags: Visualization
 date: 2025-08-01
 thumbnail: assets/img/posts/visualization.jpg
+related_posts: false
 ---
+
+**Author**: [Quentin Fournier](https://scholar.google.com/citations?user=I0M6-KsAAAAJ) (edited with LLMs)
 
 > At their best, graphics are instruments for reasoning about quantitative information. Often, the most effective way to describe, explore, and summarize a set of numbers - even a very large set - is to look at pictures of those numbers.
 > -- Edward Tufte
@@ -18,8 +21,6 @@ This guide provides simple, aesthetic examples of common plot types using Matplo
 > -- Dona M. Wong
 
 Let's dive into some practical examples with dummy data.
-
-**Author**: [Quentin Fournier](https://scholar.google.com/citations?user=I0M6-KsAAAAJ) (edited with LLMs)
 
 -----
 
