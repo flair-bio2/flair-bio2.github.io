@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://flair-bio.github.io/sitemap.xml
