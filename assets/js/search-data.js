@@ -51,7 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "news-new-preprint-structure-aligned-protein-language-model-we-bring-3d-structural-information-into-protein-language-model-via-a-lightweight-post-training-with-can-chen-david-heurtel-depeiges-robert-m-vernon-christopher-james-langmead-and-yoshua-bengio-in-collaboration-with-amgen",
+        },{id: "news-new-preprint-structure-aligned-protein-language-model-we-bring-3d-structural-information-into-protein-language-models-via-a-lightweight-post-training-with-can-chen-david-heurtel-depeiges-robert-m-vernon-christopher-james-langmead-and-yoshua-bengio-in-collaboration-with-amgen",
           title: 'New preprint: Structure-Aligned Protein Language Model. We bring 3D structural information into protein...',
           description: "",
           section: "News",},{id: "news-new-preprint-copep-benchmarking-continual-pretraining-for-protein-language-models-a-benchmark-for-studying-how-protein-language-models-can-keep-up-with-new-data-without-retraining-from-scratch-with-darshan-patil-pranshu-malviya-mathieu-reymond-and-sarath-chandar-in-collaboration-with-genentech",
